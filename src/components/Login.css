@@ -1,0 +1,14 @@
+.login{
+    text-align: center;
+    border-style:solid;
+    border-radius: 2ch;
+    border-color: rgb(16, 165, 170);
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 40%;
+    height: 80%;
+}
+.login-btn{
+    background-color: yellowgreen;
+    margin-top: 10px;
+}
